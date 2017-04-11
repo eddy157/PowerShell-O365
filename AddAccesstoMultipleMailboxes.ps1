@@ -1,6 +1,6 @@
 ﻿####################################################### 
 # Add Mailbox Access
-# Script by Eduardo Nerey 
+# Script by Eddy
 # Version 1.2 
 # 4/6/2017
 # Note: If import Fails Copy Data 
